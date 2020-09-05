@@ -1,0 +1,5 @@
+node_modules/
+dist/
+transpiled/
+worker/
+webpack.config.js
