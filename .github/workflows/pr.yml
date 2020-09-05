@@ -7,15 +7,11 @@ jobs:
     name: Test
     steps:
       - uses: actions/checkout@master
-      - uses: borales/actions-yarn@v2.0.0
+      - uses: actions/setup-node@v2
         with:
-          cmd: install
-      - uses: borales/actions-yarn@v2.0.0
-        with:
-          cmd: lint
-      - uses: borales/actions-yarn@v2.0.0
-        with:
-          cmd: test
-      - uses: borales/actions-yarn@v2.0.0
-        with:
-          cmd: build
+          node-version: "12"
+          check-latest: true
+      - run: yarn install
+      - run: yarn lint
+      - run: yarn test
+      - run: yarn build
