@@ -1,5 +1,5 @@
 type = "webpack"
-name = = "stock-api"
+name = "stock-api"
 account_id = "bfca813b7ce924f4a56602bf570d3bfe"
 workers_dev = true
 webpack_config = "webpack.config.js"
