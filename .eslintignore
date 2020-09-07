@@ -3,3 +3,4 @@ dist/
 transpiled/
 worker/
 webpack.config.js
+jest.config.js
