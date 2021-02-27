@@ -12,7 +12,7 @@
   "author": "author",
   "license": "MIT OR Apache-2.0",
   "devDependencies": {
-    "@babel/plugin-transform-modules-commonjs": "7.13.0",
+    "@babel/plugin-transform-modules-commonjs": "7.13.8",
     "@babel/plugin-transform-typescript": "7.13.0",
     "@cloudflare/workers-types": "2.1.0",
     "@commitlint/cli": "11.0.0",
