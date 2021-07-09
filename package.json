@@ -17,7 +17,7 @@
     "@cloudflare/workers-types": "2.2.2",
     "@commitlint/cli": "12.1.4",
     "@commitlint/config-conventional": "12.1.4",
-    "@types/chai": "4.2.19",
+    "@types/chai": "4.2.21",
     "@types/cheerio": "0.22.30",
     "@types/jest": "26.0.24",
     "@types/mocha": "8.2.3",
