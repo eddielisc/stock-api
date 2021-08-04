@@ -20,7 +20,7 @@
     "@types/chai": "4.2.21",
     "@types/cheerio": "0.22.30",
     "@types/jest": "26.0.24",
-    "@types/mocha": "8.2.3",
+    "@types/mocha": "9.0.0",
     "@typescript-eslint/eslint-plugin": "4.29.0",
     "@typescript-eslint/parser": "4.29.0",
     "eslint": "7.32.0",
