@@ -12,8 +12,8 @@
   "author": "author",
   "license": "MIT OR Apache-2.0",
   "devDependencies": {
-    "@babel/plugin-transform-modules-commonjs": "7.17.12",
-    "@babel/plugin-transform-typescript": "7.17.12",
+    "@babel/plugin-transform-modules-commonjs": "7.21.2",
+    "@babel/plugin-transform-typescript": "7.21.3",
     "@cloudflare/workers-types": "2.2.2",
     "@commitlint/cli": "13.2.1",
     "@commitlint/config-conventional": "13.2.0",
