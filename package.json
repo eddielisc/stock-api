@@ -27,7 +27,7 @@
     "eslint-config-prettier": "6.15.0",
     "husky": "4.3.8",
     "jest": "26.6.3",
-    "jest-fetch-mock": "3.0.3",
+    "jest-fetch-mock": "3.2.0",
     "lint-staged": "11.2.6",
     "prettier": "2.8.8",
     "ts-jest": "26.5.6",
